@@ -1,13 +1,23 @@
-# Code Habit – Day 1
+# Code Habit – Day 1 & Day 2
 
-This is my first small JavaScript project.
+This is a small JavaScript project created to build consistency and strengthen my core frontend fundamentals.
 
-## What it does
+## What the project does
 - Takes text input from a textarea
-- Counts characters (including spaces)
-- Counts words correctly
+- Counts total characters (including spaces)
+- Counts total words accurately
+- Allows resetting the input and counts using a button
 
-## Why this exists
-I am building a daily habit of coding and improving my fundamentals.
+## Features
+- Live character count
+- Live word count
+- Reset button to clear text and counters
 
-Day 1 done.
+## Why this project exists
+I am focusing on daily progress instead of overthinking.
+This project is part of my habit to code consistently after office hours and build real, working things.
+
+## Progress log
+### Day 1
+- Built basic UI using HTML and CSS
+- Implemented
